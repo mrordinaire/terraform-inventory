@@ -26,6 +26,8 @@ func init() {
 		"network_interface.0.access_config.0.nat_ip",          // GCE
 		"network_interface.0.access_config.0.assigned_nat_ip", // GCE
 		"network_interface.0.address",                         // GCE
+		"ipv4_address_private",                                // SoftLayer
+		"ipv4_address_public",                                 // SoftLayer
 	}
 
 	// type.name.0
